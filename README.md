@@ -1,3 +1,3 @@
 👋 Hi, I’m @cyberlibrarian
 
-My [Mastodon](https://infosec.exchange/@cyberlibrarian "{rel='me'}") account.
+<a rel="me" href="https://infosec.exchange/@cyberlibrarian">Mastodon</a>
